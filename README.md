@@ -14,7 +14,7 @@ Why?
 
 I suspect they will be removing stores from rural areas and poor/minority city areas (b/c "evil") creating health/retail deserts (and, to a degree, contribute to the growing food desert problem).
 
-The repo format will change a bit once the scraping gets started for realz but I wanted to get `data/cvs.csv` initially created and geocoded (ref: `cvs-address_geocodio_10effd70f9b9148ff2beccb58e8bf1b924fce9a4.csv`) so I could plan for 2022.
+The repo format will change a bit once the scraping gets started for realz but I wanted to get `data/cvs.csv` initially created and geocoded (ref: `data/cvs-address_geocodio_10effd70f9b9148ff2beccb58e8bf1b924fce9a4.csv`) so I could plan for 2022.
 
 ### NOTE
 
